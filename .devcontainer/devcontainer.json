@@ -1,0 +1,8 @@
+{
+  "name": "gatsby-t4r0-blog",
+  "dockerComposeFile": "../docker-compose.yml",
+  "service": "node",
+  "workspaceFolder": "/app",
+  "extensions": [],
+  "settings": {}
+}
