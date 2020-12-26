@@ -1,14 +1,11 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: 2020年振り返り
+date: "2020-12-27"
+description: "Looking-Back 2020"
 ---
 
-This is my first post on my new fake blog! How exciting!
+社会人になってからの時間の過ぎ方が笑えなくなってきた。4年前に何もわからないまま社会に放り出されてから4年
 
-I'm sure I'll write a lot more interesting things in the future.
-
-Oh, and here's a great quote from this Wikipedia on
 [salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
 
 > A salted duck egg is a Chinese preserved food product made by soaking duck
