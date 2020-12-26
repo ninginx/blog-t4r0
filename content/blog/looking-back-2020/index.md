@@ -1,12 +1,46 @@
 ---
-title: 2020年振り返り
-date: "2020-12-27"
+title: "1年の振り返り 2020"
+date: "2020-12-26"
 description: "Looking-Back 2020"
+tag: ["lookback"]
 ---
 
-社会人になってからの時間の過ぎ方が笑えなくなってきた。4年前に何もわからないまま社会に放り出されてから4年
+#### はじめに
 
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
+2020年ももう終わりますね。私は昨日が仕事納めでした。そして、一年の振り返りとしてこの記事を書いています。
+あの年はどんな年だったのか、何をしてたのか思い返そうとした時のきっかけにしたいという気持ちが最近になって強くなってきました。
+
+今年に入ってからだと思いますが、去年や一昨年の出来事でも何年も前のことのように感じることが何度かあって怖くなってしまったのがやる気としては大きいと思います。
+あと、単純に記録を振り返るのが好きなので... 
+
+#### 期待をかけていた2020年とその結果
+
+2020年は、変化のある年にしようと一念発起した年でした。新年一発目の豊富からもやる気が感じられます。
+
+![2020 Resolution](./resolution_2020.png)
+
+貯金を増やす以外は達成できませんでした。裏抱負に彼女を作ろうって目標があったんですけどそれもダメでした。
+彼女作ろうと頑張った話も中盤くらいでしようと思ってます。次の項から記憶にある範囲で
+
+#### 一年の振り返り
+どう振り返りをしようかなと考えていてふと思いついたのが、twitterベースで掘り起こしていくことにしました。
+人生は大体呟いているので。
+
+![2020 Summary](./summary_2020.png)
+
+
+#### 1月〜3月 社内ニートと転職
+
+
+
+
+
+
+
+
+
+
+
 
 > A salted duck egg is a Chinese preserved food product made by soaking duck
 > eggs in brine, or packing each egg in damp, salted charcoal. In Asian
@@ -16,7 +50,6 @@ description: "Looking-Back 2020"
 > salted duck eggs have a briny aroma, a gelatin-like egg white and a
 > firm-textured, round yolk that is bright orange-red in color.
 
-![Chinese Salty Egg](./salty_egg.jpg)
 
 You can also write code blocks here!
 

@@ -3,7 +3,7 @@ module.exports = {
     title: `T4R0/Blog`,
     author: {
       name: `T4R0/nginginx`,
-      summary: `メーカー系Webエンジニア`,
+      summary: `メーカー勤務のWebエンジニア`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
