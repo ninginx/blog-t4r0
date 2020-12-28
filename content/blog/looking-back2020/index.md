@@ -3,10 +3,11 @@ title: "1年の振り返り 2020"
 date: "2020-12-26"
 description: "Looking-Back 2020"
 tag: ["lookback"]
+
 ---
 
 #### はじめに
-
+---------
 2020年ももう終わりますね。私は昨日が仕事納めでした。そして、一年の振り返りとしてこの記事を書いています。
 あの年はどんな年だったのか、何をしてたのか思い返そうとした時のきっかけにしたいという気持ちが最近になって強くなってきました。
 
@@ -14,7 +15,7 @@ tag: ["lookback"]
 何度かあって怖くなってしまったのがやる気としては大きいと思います。あと、記録を振り返るのが好きなので。
 
 #### 期待をかけていた2020年とその結果
-
+---------
 2020年は、変化のある年にしようと一念発起した年でした。
 新年一発目の豊富からもやる気が感じられます。
 
@@ -25,6 +26,7 @@ tag: ["lookback"]
 彼女作ろうと頑張った話も中盤くらいでしようと思ってます。
 
 #### twitterをベースに振り返る
+---------
 今年のツイートをベースを掘り起こしていくことにしました。
 人生は大体呟いているので。
 
@@ -32,6 +34,7 @@ tag: ["lookback"]
 
 
 ### 1月〜3月
+---------
 #### 社内ニート
 2020年は社会人になって、3度目に迎える年でした。
 この頃、私はグローバル案件の企画チームに所属していました。
@@ -58,6 +61,7 @@ tag: ["lookback"]
 ![2020 chorona_1](./chorona_1_2020.png)
 
 ![2020 chorona_2](./chorona_2_2020.png)
+
 このツイートの直後に一人目の感染者が出ました。
 
 ##### 転職活動
@@ -88,6 +92,7 @@ tag: ["lookback"]
 なんだかんだ条件に見合う物件をいくつか見つけてくれて、その日のうちに契約も済ませました。
 
 ###　4月
+---------
 #### 退職
 
 退職日まで2週間ほど残して、最終出社日を迎えました。
@@ -136,221 +141,82 @@ Escape From Tarkovをずっとやってました。文字通り朝から晩ま�
 #### 新居
 
 GW入って直後だったと思いますが、この時に初めて部屋に入りました。
-管理会社で鍵をもらってそのまま直接行ったのを覚えています。
+管理会社で鍵をもらって、その日のうちに引越し屋さんに荷物を運び込んでもらいました。
 
 ![2020 new room](./new_room_2020.png)
 
+茨城に住んでた頃と比べると部屋は狭くなりましたが、
+パソコンとベッドがあればいいような生活をしてるのであんまりQoLは変わりませんでした。
 
-###　5月
-なぜか記憶にないです。割愛。新しい仕事とか始まって色々あったと思うんですけど、なんでだろう...
+###　5月~6月
+---------
+#### 睡眠の快適さをを金で買う
 
+![2020 new room](./matless_2020.png)
 
+ベッドの上に直に敷布団を置く謎運用をしてたんですが、マットレスを買ってから睡眠の質が爆上りしました。
+腰痛も解消したし睡眠自体も深くなりました。
 
-You can also write code blocks here!
+2020年で買ったものの中で一番QoLが上がったものだと思います。
 
-```js
-const saltyDuckEgg = "chinese preserved food product"
-```
+###　7月~8月
+---------
+#### 毎日英会話を始める
 
-| Number | Title                                    | Year |
-| :----- | :--------------------------------------- | ---: |
-| 1      | Harry Potter and the Philosopher’s Stone | 2001 |
-| 2      | Harry Potter and the Chamber of Secrets  | 2002 |
-| 3      | Harry Potter and the Prisoner of Azkaban | 2004 |
+仕事で英語を使う機会が減ったので、プライベートで英語力を鍛えようと思ってDMM英会話を始めました。毎日30分先生と英会話をして感想をツイートしてました。
 
-[View raw (TEST.md)](https://raw.github.com/adamschwartz/github-markdown-kitchen-sink/master/README.md)
+![2020 dmm english](./dmm_english_2020.png)
 
-This is a paragraph.
+<blockquote class="twitter-tweet">
+    <p lang="ja" dir="ltr">英会話4日かいし</p>
+    &mdash; T4RO (@ninginx) <a href="https://twitter.com/ninginx/status/1280146949769814018?ref_src=twsrc%5Etfw">July 6, 2020</a>
+</blockquote> 
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-    This is a paragraph.
+DMM英会話の感想文ツイートの最初の方です。
 
-# Header 1
+勉強になるのは、もちろんそうなんですが、知らない人と話すことが普通に楽しかったです。
+コロナが共通の話題になったので、各国のコロナ事情も知れたりしました。
 
-## Header 2
+![2020 kanojo usomatsu](./kanojo_uso_2020.png)
 
-    Header 1
-    ========
+![2020 dmm usomatsu](./usomatsu_2020.png)
 
-    Header 2
-    --------
+つまらない見栄を張ったせいで、架空の彼女の紹介をするハメになりました。
 
-# Header 1
+#### マッチングアプリをはじめる
 
-## Header 2
+あんまりツイート自体はしませんでしたが、6月の中頃からマッチングアプリを始めました。
+一番力を入れやってたのは、この時期だと思います。
 
-### Header 3
+![2020 kanojo hosii](./kanojohosi_2020.png)
 
-#### Header 4
+友達が彼女とうまく行っているのが羨ましかったのがきっかけだったと思います。
 
-##### Header 5
+友達にマッチングアプリに載せるようの写真を撮ってもらったり、
+プロフィールの文面を考えたりして準備万端で臨みました。
 
-###### Header 6
+週に何人かマッチングしましたが、半数は一通目のメッセージから返って来ません。
+もう半数は1週間程度でメッセージが途切れるといった調子で続けていました
 
-    # Header 1
-    ## Header 2
-    ### Header 3
-    #### Header 4
-    ##### Header 5
-    ###### Header 6
+その中には会ってもいいよと言ってくれる人もいて実際に会って、ご飯を食べに行くこともありました。
 
-# Header 1
+![2020 with niouna](./niouna_2020.png)
 
-## Header 2
+この時も人に会いに行く途中でした。俺じゃない...俺じゃなかったはず...
 
-### Header 3
+銀座の駅前で待ち合わせして、喫茶店でお茶をしてました。
+夕方ぐらいに次はどこどこ行きましょうみたいは話をしてお別れしました。
 
-#### Header 4
 
-##### Header 5
 
-###### Header 6
 
-    # Header 1 #
-    ## Header 2 ##
-    ### Header 3 ###
-    #### Header 4 ####
-    ##### Header 5 #####
-    ###### Header 6 ######
 
-> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+### 9月
+--------
+#### Issenダイエットレース
 
-    > Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+### 10月
+--------
 
-> ## This is a header.
->
-> 1. This is the first list item.
-> 2. This is the second list item.
->
-> Here's some example code:
->
->     Markdown.generate();
-
-    > ## This is a header.
-    > 1. This is the first list item.
-    > 2. This is the second list item.
-    >
-    > Here's some example code:
-    >
-    >     Markdown.generate();
-
-- Red
-- Green
-- Blue
-
-* Red
-* Green
-* Blue
-
-- Red
-- Green
-- Blue
-
-```markdown
-- Red
-- Green
-- Blue
-
-* Red
-* Green
-* Blue
-
-- Red
-- Green
-- Blue
-```
-
-- `code goes` here in this line
-- **bold** goes here
-
-```markdown
-- `code goes` here in this line
-- **bold** goes here
-```
-
-1. Buy flour and salt
-1. Mix together with water
-1. Bake
-
-```markdown
-1. Buy flour and salt
-1. Mix together with water
-1. Bake
-```
-
-1. `code goes` here in this line
-1. **bold** goes here
-
-```markdown
-1. `code goes` here in this line
-1. **bold** goes here
-```
-
-Paragraph:
-
-    Code
-
-<!-- -->
-
-    Paragraph:
-
-        Code
-
----
-
----
-
----
-
----
-
----
-
-    * * *
-
-    ***
-
-    *****
-
-    - - -
-
-    ---------------------------------------
-
-This is [an example](http://example.com "Example") link.
-
-[This link](http://example.com) has no title attr.
-
-This is [an example][id] reference-style link.
-
-[id]: http://example.com "Optional Title"
-
-    This is [an example](http://example.com "Example") link.
-
-    [This link](http://example.com) has no title attr.
-
-    This is [an example] [id] reference-style link.
-
-    [id]: http://example.com "Optional Title"
-
-_single asterisks_
-
-_single underscores_
-
-**double asterisks**
-
-**double underscores**
-
-    *single asterisks*
-
-    _single underscores_
-
-    **double asterisks**
-
-    __double underscores__
-
-This paragraph has some `code` in it.
-
-    This paragraph has some `code` in it.
-
-![Alt Text](https://placehold.it/200x50 "Image Title")
-
-    ![Alt Text](https://placehold.it/200x50 "Image Title")
+aaaa
